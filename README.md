@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaavya Sri Ramarapu</h1>
+<h3 align="center">A recent Electrical Engineering Graduate </h3>
 
-<!--
-**kaavyyaashri/kaavyyaashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **developing my skills as a recent graduate**
 
-Here are some ideas to get you started:
+- 🤝 I’m searching to do **projects and develop my skills for these related fields: Product engineering, Testing engineering, Applied AI for Engineering Applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Strategy, Analysis, Research.**
+
+- 📫 How to reach me **ramarapukaavyasri@gmail.com**
+
+<!-- ⚡ Fun fact **I talk a lot if we connect.**-->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kaavyasriramarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaavyasriramarapu" height="30" width="40" /></a>
+</p>
+
