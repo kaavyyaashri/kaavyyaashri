@@ -3,7 +3,7 @@
 <h3 align="center">Electrical Engineer · Austin, TX · MS from Texas State University · Currently Open to Work</h3>
 
 Electrical engineer who somehow ended up teaching computers to recognize emotions —
-and then built a bot to handle the job search doomscrolling because someone had to.
+and then built a bot to handle the job search doomscrolling.
 I build things that sit at the intersection of hardware, software, and "wait, that actually works?"
 
 ---
