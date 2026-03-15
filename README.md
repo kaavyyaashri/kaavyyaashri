@@ -31,8 +31,7 @@ Arduino + MEMS sensor = hands-free wheelchair navigation. Low-cost, actually wor
 and one of my favorite things I've ever made.
 
 **⚡ HPC Cluster Management @ Texas State**  
-Scheduled GPU jobs, wrote monitoring scripts, and quietly reduced the number of times
-researchers had to call IT. You're welcome, IT team.
+Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
 
 ---
 
