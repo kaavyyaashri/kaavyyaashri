@@ -17,21 +17,23 @@ structure to messy problems, catch bugs before they become someone else's emerge
 
 ### Things I've Actually Built
 
-**🤖 Job Search Automation Bot**  
-Got tired of refreshing LinkedIn at midnight. Built a bot to automate job search queries,
-filter listings, and surface relevant roles — because my sleep schedule deserved better.
-
 **🧠 Multimodal Emotion Recognition for Children with ASD** *(IEEE UEMCON 2025)*  
 My MS thesis. A deep learning pipeline that combines facial cues and environmental context
 to help identify emotional states in children with autism. Published and presented.
 Yes, I talked to a room full of engineers about feelings. Would do it again.
 
+**⚡ HPC Cluster Management @ Texas State**  
+Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
+
+**🤖 Job Search Automation Bot**  
+Got tired of refreshing LinkedIn at midnight. Built a bot to automate job search queries,
+filter listings, and surface relevant roles — because my sleep schedule deserved better.
+
 **♿ Head-Gesture Controlled Wheelchair**  
 Arduino + MEMS sensor = hands-free wheelchair navigation. Low-cost, actually worked,
 and one of my favorite things I've ever made.
 
-**⚡ HPC Cluster Management @ Texas State**  
-Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
+
 
 ---
 
