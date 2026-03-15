@@ -17,7 +17,7 @@ structure to messy problems, catch bugs before they become someone else's emerge
 
 ### Things I've Actually Built
 
-**🤖 LinkedIn Job Search Automation Bot**  
+**🤖 Job Search Automation Bot**  
 Got tired of refreshing LinkedIn at midnight. Built a bot to automate job search queries,
 filter listings, and surface relevant roles — because my sleep schedule deserved better.
 
