@@ -36,7 +36,7 @@ researchers had to call IT. You're welcome, IT team.
 
 ---
 
-### Skills (The Real Ones)
+<!--### Skills (The Real Ones)
 
 ```
 Python · PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas
@@ -59,7 +59,7 @@ to people who did not ask for a lecture.
 - Agile Foundations — LinkedIn Learning · Nov 2025
 - + a few more, because apparently I do this for fun
 
----
+--- -->
 
 ### Let's Connect
 
