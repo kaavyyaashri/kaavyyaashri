@@ -18,7 +18,7 @@ I recently finished my Master's at Texas State University, where my thesis invol
 
 **Published an IEEE paper** on multimodal emotion recognition for children with ASD *(UEMCON 2025)* — presented it too, which means I've talked to a room full of people about feelings... at an engineering conference.
 
-**Built a head-gesture controlled wheelchair** using Arduino and a motion sensor. Hands-free, low-cost, and it actually worked. Very proud of this one.
+**Built a head-gesture controlled wheelchair** using Arduino and a motion sensor. Hands-free, low-cost, and it actually worked. 
 
 **Ran HPC clusters at Texas State** — scheduled GPU jobs, wrote monitoring scripts, and reduced the number of times researchers had to call IT. You're welcome, IT team.
 
