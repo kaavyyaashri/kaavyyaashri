@@ -25,8 +25,8 @@ Yes, I talked to a room full of engineers about feelings. Would do it again.
 **⚡ HPC Cluster Management @ Texas State**  
 Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
 
-**🤖 Job Search Automation Bot**  
-Got tired of refreshing LinkedIn at midnight. Built a bot to automate job search queries,
+**🤖 Industry Job Search Automation Bot**  
+Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
 filter listings, and surface relevant roles — because my sleep schedule deserved better.
 
 **♿ Head-Gesture Controlled Wheelchair**  
