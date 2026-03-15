@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaavya Sri Ramarapu</h1>
-<h3 align="center">A recent Electrical Engineering Graduate </h3>
+<h3 align="center">An Electrical Engineering Graduate </h3>
 
 - 🔭 I’m currently working on **developing my skills as a recent graduate**
 
