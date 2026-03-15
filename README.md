@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-Electrical Engineer · Austin, TX · MS from Texas State University · Currently Open to Work
+<h3 align="center">Electrical Engineer · Austin, TX · MS from Texas State University · Currently Open to Work</h3>
 
 Electrical engineer who somehow ended up teaching computers to recognize emotions —
 and then built a bot to handle the job search doomscrolling because someone had to.
