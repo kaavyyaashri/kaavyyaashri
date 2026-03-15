@@ -29,7 +29,7 @@ I recently finished my Master's at Texas State University, where my thesis invol
 ```
 Python · PyTorch · TensorFlow · scikit-learn · OpenCV
 Linux · SLURM · HPC clusters · Docker
-Arduino · FPGA (Xilinx) · PCB testing & soldering
+Arduino · PCB testing & soldering
 Git · Bash · Jupyter · Power BI
 ```
 
@@ -68,8 +68,8 @@ Always happy to talk engineering, AI, research, or what it's like to build somet
 
 <!-- ⚡ Fun fact **I talk a lot if we connect.**-->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaavyasriramarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaavyasriramarapu" height="30" width="40" /></a>
-</p> -->
+</p> --> 
 
