@@ -29,11 +29,6 @@ Wrote utilization and monitoring scripts to track how researchers across departm
 Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
 filter listings, and surface relevant roles — because my sleep schedule deserved better.
 
-**♿ Head-Gesture Controlled Wheelchair**  
-Arduino + MEMS sensor = hands-free wheelchair navigation. Low-cost, actually worked,
-and one of my favorite things I've ever made.
-
-
 
 ---
 
