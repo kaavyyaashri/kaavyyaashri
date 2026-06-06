@@ -11,7 +11,7 @@ I build things that sit at the intersection of hardware, software, and "wait, th
 ### What I'm Looking For
 
 A role in **product engineering**, **testing & validation**, or **applied AI** where I can bring
-structure to messy problems, catch bugs before they become someone else's emergency, and occasionally automate the boring parts.
+structure to messy problems and occasionally automate the boring parts.
 
 ---
 
