@@ -27,7 +27,7 @@ Wrote utilization and monitoring scripts to track how researchers across departm
 
 **🤖 Industry Job Search Automation Bot**  
 Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
-filter listings, and surface relevant roles — because my sleep schedule deserved better.
+filter listings, and surface relevant roles.
 
 
 ---
