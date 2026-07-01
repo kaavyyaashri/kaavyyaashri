@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-<h3 align="center">Electrical Engineer · Austin, TX · MS from Texas State University · Currently Open to Work</h3>
+<h3 align="center">Electrical Engineer · Hyderabad, TS · MS from Texas State University · Currently Open to Work</h3>
 
 Electrical engineer who somehow ended up teaching computers to recognize emotions —
 and then built a bot to handle the job search doomscrolling.
@@ -17,17 +17,22 @@ structure to messy problems and occasionally automate the boring parts.
 
 ### Things I've Actually Built
 
+**🤖 Industry Job Search Automation Bot**  
+Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
+filter listings, and surface relevant roles.
+
+**⚡ HPC Cluster Management @ Texas State**  
+Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
+
 **🧠 Multimodal Emotion Recognition for Children with ASD** *(IEEE UEMCON 2025)*  
 My MS thesis. A deep learning pipeline that combines facial cues and environmental context
 to help identify emotional states in children with autism. Published and presented.
 Yes, I talked to a room full of engineers about feelings. Would do it again.
 
-**⚡ HPC Cluster Management @ Texas State**  
-Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
 
-**🤖 Industry Job Search Automation Bot**  
-Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
-filter listings, and surface relevant roles.
+---
+
+### Case Studies Coming soon...
 
 
 ---
