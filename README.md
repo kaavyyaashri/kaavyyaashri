@@ -29,7 +29,6 @@ My MS thesis. A deep learning pipeline that combines facial cues and environment
 to help identify emotional states in children with autism. Published and presented.
 Yes, I talked to a room full of engineers about feelings. Would do it again.
 
-
 ---
 
 ### Case Studies Coming soon...
@@ -67,7 +66,7 @@ to people who did not ask for a lecture.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaavyasriramarapu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ramarapukaavyasri@gmail.com)
 
-Always happy to talk engineering, AI, research, or what it's like to build something that actually helps people.
+Always happy to talk engineering, product strategies, AI, research, or what it's like to build something that actually helps people.
 
 <!-- <h1 align="center">Hi 👋, I'm Kaavya Sri Ramarapu</h1>
 <h3 align="center">An Electrical Engineering Graduate </h3>
