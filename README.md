@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-<h3 align="center">Electrical Engineer · Hyderabad, TS · MS from Texas State University · Currently Open to Work</h3>
+<h3 align="center">Electrical Engineer | Hardware, Embedded Systems & Applications Engineering (Aspiring) | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
 
 Electrical engineer who somehow ended up teaching computers to recognize emotions —
 and then built a bot to handle the job search doomscrolling.
@@ -10,8 +10,8 @@ I build things that sit at the intersection of hardware, software, and "wait, th
 
 ### What I'm Looking For
 
-A role in **product engineering**, **testing & validation**, or **applied AI** where I can bring
-structure to messy problems and occasionally automate the boring parts.
+I'm currently seeking roles that bridge hardware and software/technical communications like for example Feld application engineer, Application Engineer or similar hardware-software bridge roles, ideally in engineering driven teams in India or Global.
+Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
 ---
 
@@ -66,7 +66,7 @@ to people who did not ask for a lecture.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaavyasriramarapu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ramarapukaavyasri@gmail.com)
 
-Always happy to talk engineering, product strategies, AI, research, or what it's like to build something that actually helps people.
+Always happy to talk about engineering, product strategies, AI, research, or what it's like to build something that actually helps people.
 
 <!-- <h1 align="center">Hi 👋, I'm Kaavya Sri Ramarapu</h1>
 <h3 align="center">An Electrical Engineering Graduate </h3>
