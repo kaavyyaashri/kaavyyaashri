@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-<h3 align="center">Electrical Engineer | Hardware, Embedded Systems & Applications Engineering (Aspiring) | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
+<h3 align="center">Electrical Engineer | Hardware, Embedded Systems | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
 
 Electrical engineer who somehow ended up teaching computers to recognize emotions —
 and then built a bot to handle the job search doomscrolling.
