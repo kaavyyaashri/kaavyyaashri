@@ -10,7 +10,7 @@ I build things that sit at the intersection of hardware, software, and "wait, th
 
 ### What I'm Looking For
 
-I'm currently seeking roles that bridge hardware and software/technical communications like for example Feld application engineer, Application Engineer or similar hardware-software bridge roles, ideally in engineering driven teams in India or Global.
+I'm currently seeking roles that bridge hardware and software/technical communications like for example Field application engineer, Application Engineer or similar hardware-software bridge roles, ideally in engineering driven teams in India or Global.
 Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
 ---
