@@ -2,7 +2,6 @@
 
 <h3 align="center">Electrical Engineer | Hardware, Embedded Systems | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
 
-I work where hardware meets machine learning: validating boards, monitoring systems, and turning sensor data into decisions. IEEE-published, and I enjoy explaining technical things simply.
 ---
 
 ### What I'm Looking For
