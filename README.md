@@ -2,15 +2,14 @@
 
 <h3 align="center">Electrical Engineer | Hardware, Embedded Systems | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
 
-Electrical engineer who somehow ended up teaching computers to recognize emotions —
-and then built a bot to handle the job search doomscrolling.
-I build things that sit at the intersection of hardware, software, and "wait, that actually works?"
-
+I work where hardware meets machine learning: validating boards, monitoring systems, and turning sensor data into decisions. IEEE-published, and I enjoy explaining technical things simply.
 ---
 
 ### What I'm Looking For
 
-I'm currently seeking roles that bridge hardware and software/technical communications like for example Field application engineer, Application Engineer or similar hardware-software bridge roles, ideally in engineering driven teams in India or Global.
+I'm currently seeking roles that bridge hardware and software/technical communications like Applications Engineer · Hardware/Board Validation Engineer · Product Engineer ·
+Systems Engineer roles in Hyderabad, Bengaluru, or remote/global teams (semiconductor, industrial automation, IoT).
+
 Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
 ---
