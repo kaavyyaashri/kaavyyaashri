@@ -27,14 +27,16 @@ My MS thesis. A deep learning pipeline that combines facial cues and environment
 to help identify emotional states in children with autism. Published and presented.
 Yes, I talked to a room full of engineers about feelings. Would do it again.
 
+
+
+<!--
 ---
 
 ### Case Studies Coming soon...
 
 
 ---
-
-<!--### Skills (The Real Ones)
+### Skills (The Real Ones)
 
 ```
 Python · PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas
