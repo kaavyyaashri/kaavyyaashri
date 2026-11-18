@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-<h3 align="center">Electrical Engineer | Product, Hardware, Embedded Systems | Bridging Technical Systems & End Users | Open to Roles in India & Global · Hyderabad, TS · MS from Texas State University </h3>
+<h3 align="center"> M.S. Electrical Engineering | Bridging Deep-Tech Systems (AI/HPC, Semiconductors) & End Users | Technical Program & Product Operations | Hyderabad, India </h3>
 
 ---
 
