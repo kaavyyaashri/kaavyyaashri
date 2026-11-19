@@ -12,7 +12,10 @@ Systems Engineer roles in Hyderabad, Bengaluru, or remote/global teams (semicond
 Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
 ---
+### Experience
 
+
+---
 ### Things I've Actually Built
 
 **🤖 Industry Job Search Automation Bot**  
