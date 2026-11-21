@@ -39,6 +39,9 @@ My MS thesis. A deep learning pipeline that combines facial cues and environment
 to help identify emotional states in children with autism. Published and presented.
 [Multimodal Emotion Recognition for Children with ASD](https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for-Children-with-ASD)
 
+** 👩🏽‍🦼‍➡️Head-Gesture-Controlled Wheelchair**
+Arduino + MEMS sensing for low-cost hands-free control, with heart-rate and temperature safety monitoring.
+
 ---
 
 ### Case Studies Coming soon...
@@ -49,7 +52,9 @@ to help identify emotional states in children with autism. Published and present
 
 ```
 Product, Strategy & Program Operations: Systems thinking, requirement analysis, root cause analysis, workflow optimization, technical documentation, and cross-functional collaboration, Agile & Lean Six Sigma princilples.
+
 Systems & Hardware Domain: Linux environments, SLURM scheduling, HPC clusters, resource monitoring, Bash/shell scripting, Hardware validation and testing workflows, embedded systems architecture (ARM Cortex-M, PCB testing, microcontrollers, MEMS).
+
 Technical & Programming & AI/ML Literacy: Python, Bash scripting, Deep learning workflows, Pandas, Numpy, Seaborn, Matplotlib, LLM Prompt Engineering
 Tools: Slack, Jupyter Notebook, MS Office, GitHub.
 
