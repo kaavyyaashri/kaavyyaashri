@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
+<h1 align="center"> I'm Kaavya Sri Ramarapu</h1>
 
 <h3 align="center"> M.S. Electrical Engineering (Texas State University) | Hardware validation, embedded systems, HPC infrastructure and applied AI/ML | Hyderabad, India </h3>
 
