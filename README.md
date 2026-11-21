@@ -59,7 +59,13 @@ Technical & Programming & AI/ML Literacy: Python, Bash scripting, Deep learning 
 Tools: Slack, Jupyter Notebook, MS Office, GitHub.
 
 ```
+---
 
+**📄 Publications**
+Multi-modal Emotion Temporal Environment Facial Classification to help Children with ASD, IEEE UEMCON 2025.
+Environment Emotion "Vibe" Recognition, poster, TXST Data and AI Day (2025).
+
+---
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaavyasriramarapu)
