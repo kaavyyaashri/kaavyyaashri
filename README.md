@@ -15,12 +15,12 @@ Open to Relocation and full-time, short-term/contract opportunities while tranis
 **Graduate Research Assistant and Volunteer, HPC & AI systems**
 HiPE Lab, Texas State | Jun 2026 
 HPC monitoring, GPU utilization analysis and workshop curriculum.
-https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GRA_HPC_%26_AI_systems_work
+[Graduate Research Assistant and Volunteer, HPC & AI systems](https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GRA_HPC_%26_AI_systems_work)
 
 **Graduate Instructuion Assistant, Embedded Systems**
 Microprocessor Lab, Texas State | May 2024
 Lab debugging, demo sign offs, grading.
-https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GIA_Microprocessors_Lab
+[Graduate Instructuion Assistant, Embedded Systems](https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GIA_Microprocessors_Lab)
 
 **Testing Engineer**
 Pragna Electronics and Communication | Jun 2022
@@ -32,19 +32,13 @@ PCB assembly, validation and debugging.
 **🤖 Industry Job Search Automation Bot**   
 Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
 filter listings, and surface relevant roles. 
-https://github.com/kaavyyaashri/Job-Search-Bot_kaavya
-
-**⚡ HPC Cluster Management @ Texas State**  
-Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
+[Industry Job Search Automation Bot](https://github.com/kaavyyaashri/Job-Search-Bot_kaavya)
 
 **🧠 Multimodal Emotion Recognition for Children with ASD** *(IEEE UEMCON 2025)*  
 My MS thesis. A deep learning pipeline that combines facial cues and environmental context
 to help identify emotional states in children with autism. Published and presented.
-Yes, I talked to a room full of engineers about feelings. Would do it again.
-https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for-Children-with-ASD
+[Multimodal Emotion Recognition for Children with ASD](https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for-Children-with-ASD)
 
-
-<!--
 ---
 
 ### Case Studies Coming soon...
@@ -54,27 +48,12 @@ https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for
 ### Skills (The Real Ones)
 
 ```
-Python · PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas
-Linux · SLURM · HPC clusters · Docker · Bash
-Arduino · PCB testing · Embedded C
-Git · Jupyter · Power BI
+Product, Strategy & Program Operations: Systems thinking, requirement analysis, root cause analysis, workflow optimization, technical documentation, and cross-functional collaboration, Agile & Lean Six Sigma princilples.
+Systems & Hardware Domain: Linux environments, SLURM scheduling, HPC clusters, resource monitoring, Bash/shell scripting, Hardware validation and testing workflows, embedded systems architecture (ARM Cortex-M, PCB testing, microcontrollers, MEMS).
+Technical & Programming & AI/ML Literacy: Python, Bash scripting, Deep learning workflows, Pandas, Numpy, Seaborn, Matplotlib, LLM Prompt Engineering
+Tools: Slack, Jupyter Notebook, MS Office, GitHub.
+
 ```
-
-Also: root cause analysis, technical documentation, and explaining complex things
-to people who did not ask for a lecture.
-
----
-
-### Certs I Earned at 2am
-
-- AI Ethics — DataCamp · Feb 2026
-- Supervised Learning with scikit-learn — DataCamp · Jan 2026
-- Test Automation Foundations — LinkedIn Learning · Dec 2025
-- Lean Six Sigma Foundations — LinkedIn Learning · Nov 2025
-- Agile Foundations — LinkedIn Learning · Nov 2025
-- + a few more, because apparently I do this for fun
-
---- -->
 
 ### Let's Connect
 
@@ -82,22 +61,4 @@ to people who did not ask for a lecture.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ramarapukaavyasri@gmail.com)
 
 Always happy to talk about engineering, product strategies, AI, research, or what it's like to build something that actually helps people.
-
-<!-- <h1 align="center">Hi 👋, I'm Kaavya Sri Ramarapu</h1>
-<h3 align="center">An Electrical Engineering Graduate </h3>
-
-- 🔭 I’m currently working on **developing my skills as a recent graduate**
-
-- 🤝 I’m searching to do **projects and develop my skills for these related fields: Product engineering, Testing engineering, Applied AI for Engineering Applications**
-
-- 💬 Ask me about **Strategy, Analysis, Research.**
-
-- 📫 How to reach me **ramarapukaavyasri@gmail.com**
-
-<!-- ⚡ Fun fact **I talk a lot if we connect.**-->
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaavyasriramarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaavyasriramarapu" height="30" width="40" /></a>
-</p> --> 
 
