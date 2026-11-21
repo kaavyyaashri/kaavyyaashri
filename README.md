@@ -48,7 +48,7 @@ Arduino + MEMS sensing for low-cost hands-free control, with heart-rate and temp
 
 
 ---
-### Skills (The Real Ones)
+### Skills 
 
 ```
 Product, Strategy & Program Operations: Systems thinking, requirement analysis, root cause analysis, workflow optimization, technical documentation, and cross-functional collaboration, Agile & Lean Six Sigma princilples.
