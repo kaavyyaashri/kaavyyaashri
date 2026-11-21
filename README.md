@@ -39,7 +39,7 @@ My MS thesis. A deep learning pipeline that combines facial cues and environment
 to help identify emotional states in children with autism. Published and presented.
 [Multimodal Emotion Recognition for Children with ASD](https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for-Children-with-ASD)
 
-** 👩🏽‍🦼‍➡️Head-Gesture-Controlled Wheelchair**
+**👩🏽‍🦼‍➡️Head-Gesture-Controlled Wheelchair**
 Arduino + MEMS sensing for low-cost hands-free control, with heart-rate and temperature safety monitoring.
 
 ---
