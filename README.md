@@ -1,13 +1,12 @@
 <h1 align="center">Hey 👋, I'm Kaavya Sri Ramarapu</h1>
 
-<h3 align="center"> M.S. Electrical Engineering | Bridging Deep-Tech Systems (AI/HPC, Semiconductors) & End Users | Technical Program & Product Operations | Hyderabad, India </h3>
+<h3 align="center"> M.S. Electrical Engineering (Texas State University)| Hardware validation, embedded systems, HPC infrastructure and applied AI/ML | Hyderabad, India </h3>
 
 ---
 
 ### What I'm Looking For
 
-I'm currently seeking roles that bridge hardware and software/technical communications like Applications Engineer · Hardware/Board Validation Engineer · Product Engineer ·
-Systems Engineer roles in Hyderabad, Bengaluru, or remote/global teams (semiconductor, industrial automation, IoT).
+Roles that bridge hardware and software (technical program/ product operations, validation, systems, edge AI)  in Hyderabad, Pune, Bengaluru or remote/global teams (semiconductor, industrial automation, IoT).
 
 Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
