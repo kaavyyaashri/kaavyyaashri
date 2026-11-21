@@ -6,20 +6,31 @@
 
 ### What I'm Looking For
 
-Roles that bridge hardware and software (technical program/ product operations, validation, systems, edge AI)  in Hyderabad, Pune, Bengaluru or remote/global teams (semiconductor, industrial automation, IoT).
+Roles that bridge hardware and software (technical program/ product operations, validation, systems, edge AI / Graduate Engineer Trainee/ Rotational programs, early career roles  in Hyderabad, Pune, Bengaluru or remote/global teams (semiconductor, industrial automation, IoT).
 
 Open to Relocation and full-time, short-term/contract opportunities while tranisitioning.
 
 ---
 ### Experience
+**Graduate Research Assistant and Volunteer, HPC & AI systems**
+HiPE Lab, Texas State | Jun 2026 | https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GRA_HPC_%26_AI_systems_work
+HPC monitoring, GPU utilization analysis and workshop curriculum
 
+**Graduate Instructuion Assistant, Embedded Systems**
+Microprocessor Lab, Texas State | May 2024 | https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GIA_Microprocessors_Lab
+Lab debugging, demo sign offs, grading.
+
+**Testing Engineer**
+Pragna Electronics and Communication | Jun 2022
+PCB assembly, validation and debugging.
 
 ---
 ### Things I've Actually Built
 
-**🤖 Industry Job Search Automation Bot**  
+**🤖 Industry Job Search Automation Bot**   
 Got tired of refreshing LinkedIn and several websites at midnight. Built a bot to automate job search queries,
-filter listings, and surface relevant roles.
+filter listings, and surface relevant roles. 
+https://github.com/kaavyyaashri/Job-Search-Bot_kaavya
 
 **⚡ HPC Cluster Management @ Texas State**  
 Wrote utilization and monitoring scripts to track how researchers across departments were using HPC clusters, maintained resource usage logs, and became the unofficial "how do I run this on the cluster?" person for half the building. 
