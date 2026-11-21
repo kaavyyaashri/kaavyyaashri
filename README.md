@@ -13,12 +13,14 @@ Open to Relocation and full-time, short-term/contract opportunities while tranis
 ---
 ### Experience
 **Graduate Research Assistant and Volunteer, HPC & AI systems**
-HiPE Lab, Texas State | Jun 2026 | https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GRA_HPC_%26_AI_systems_work
-HPC monitoring, GPU utilization analysis and workshop curriculum
+HiPE Lab, Texas State | Jun 2026 
+HPC monitoring, GPU utilization analysis and workshop curriculum.
+https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GRA_HPC_%26_AI_systems_work
 
 **Graduate Instructuion Assistant, Embedded Systems**
-Microprocessor Lab, Texas State | May 2024 | https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GIA_Microprocessors_Lab
+Microprocessor Lab, Texas State | May 2024
 Lab debugging, demo sign offs, grading.
+https://github.com/kaavyyaashri/TXST_Kaavya_work/tree/main/GIA_Microprocessors_Lab
 
 **Testing Engineer**
 Pragna Electronics and Communication | Jun 2022
@@ -39,7 +41,7 @@ Wrote utilization and monitoring scripts to track how researchers across departm
 My MS thesis. A deep learning pipeline that combines facial cues and environmental context
 to help identify emotional states in children with autism. Published and presented.
 Yes, I talked to a room full of engineers about feelings. Would do it again.
-
+https://github.com/kaavyyaashri/Multimodal-Environmental-Emotion-Recognition-for-Children-with-ASD
 
 
 <!--
